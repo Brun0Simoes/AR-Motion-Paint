@@ -1,0 +1,7 @@
+{
+  "name": "AR Motion Paint",
+  "description": "An augmented reality drawing application that lets you paint in the air using your hands. Control the brush with a pinch gesture and explore creative tools in a modern interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
